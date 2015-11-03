@@ -9,6 +9,7 @@
   "author": "Krzysztof Karol <krzysztof.karol@gmail.com> (http://krzysztofkarol.com)",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.10.6",
     "underscore": "^1.8.3"
   }
 }
