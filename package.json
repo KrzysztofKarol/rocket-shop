@@ -1,0 +1,21 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A crowd-sourced subscription tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.2"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "Krzysztof Karol <krzysztof.karol@gmail.com> (http://krzysztofkarol.com)",
+  "license": "ISC"
+}
